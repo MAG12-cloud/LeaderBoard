@@ -4,8 +4,6 @@
 
 > The leaderboard web application lq displays scores submitted by different players. It also allows you to submit your score. and all the data is preserved via the external Leaderboard API service
 
-<img width="300" src="https://media.giphy.com/media/5glUoodsXig066QvIY/giphy.gif">
-## Built With
 
 - HTML
 - CSS
